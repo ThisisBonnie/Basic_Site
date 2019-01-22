@@ -1,0 +1,22 @@
+This is the documentation of the files in this Folder.
+It will be updated when ever new files are added.
+For commits, please read the commit history
+
+
+Basic_page.HTML
+Contains basic text manipulation
+
+Basic_page2.HTML
+Contains basic text manipulation
+
+Basic_page3.HTML
+Contains a IFrame with a youtube video
+
+Basic_page4.HTML
+Contains nothing
+
+Basic_page.CSS
+Contains the CSS for all Pages
+
+Code-C-P
+A mis page for Copy pasting code between pages and or edits
