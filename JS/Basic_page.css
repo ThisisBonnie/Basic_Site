@@ -31,5 +31,16 @@ h5{
     display: block;
     color: white;
     text-align: center;
-    
+    padding: 15px 17px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    Background-color:grey;
+    color:black;
+}
+
+#CurrentPage {
+    background-color: white;
+    color: black;
 }
