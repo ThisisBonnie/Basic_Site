@@ -1,0 +1,35 @@
+body {
+    background-color: palevioletred
+
+}
+
+h5{
+    color:lightblue; font: 18px;
+}
+
+#secondpID{ 
+    color: blue; font:20px;
+}
+
+#thirdhID{
+    color:red; font:25px; 
+}
+
+.header {
+    background-color: lightpink;
+    padding: 25px;
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    
+}
