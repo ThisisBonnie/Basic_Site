@@ -19,4 +19,4 @@ Basic_page.CSS
 Contains the CSS for all Pages
 
 Code-C-P
-A mis page for Copy pasting code between pages and or edits
+A misc page for Copy pasting code between pages and or edits
