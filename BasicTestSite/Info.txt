@@ -3,19 +3,19 @@ It will be updated when ever new files are added.
 For commits, please read the commit history
 
 
-Basic_page.HTML
+Basic_Page1.HTML
 Contains basic text manipulation
 
-Basic_page2.HTML
-Contains basic text manipulation
+Basic_Page2.HTML
+Nothing
 
-Basic_page3.HTML
+Basic_Page3.HTML
 Contains a IFrame with a youtube video
 
-Basic_page4.HTML
-Contains nothing
+Basic_Page4.HTML
+Contains A gif
 
-Basic_page.CSS
+Basic_Page.CSS
 Contains the CSS for all Pages
 
 Code-C-P

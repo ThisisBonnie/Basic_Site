@@ -7,15 +7,15 @@ h5{
     color:lightblue; font: 18px;
 }
 
-#secondpID{ 
+#A{ 
     color: blue; font:20px;
 }
 
-#thirdhID{
+#B{
     color:red; font:25px; 
 }
 
-.header {
+.C{
     background-color: lightpink;
     padding: 25px;
     text-align: center;
