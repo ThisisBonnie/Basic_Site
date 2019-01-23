@@ -15,18 +15,18 @@ h5{
     color:red; font:25px; 
 }
 
-.C{
+#C{
     background-color: lightpink;
     padding: 25px;
     text-align: center;
 }
 
-.topnav {
+nav {
     overflow: hidden;
     background-color: black;
 }
 
-.topnav a {
+nav a {
     float: left;
     display: block;
     color: white;
@@ -35,12 +35,12 @@ h5{
     text-decoration: none;
 }
 
-.topnav a:hover {
+nav a:hover {
     Background-color:grey;
     color:black;
 }
 
-#CurrentPage {
+.CurrentPage {
     background-color: white;
     color: black;
 }
