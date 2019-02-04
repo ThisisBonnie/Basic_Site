@@ -1,2 +1,4 @@
 var id = document.getElementById("switch-button");
-alert("Clicked on " + id.value);
+function buttonpush() {
+  alert("Clicked on " + id.value);
+}
