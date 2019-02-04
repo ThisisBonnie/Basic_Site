@@ -9,7 +9,7 @@
     </head>
     <body>
         <header>  
-            <h2>
+            <h2 id="header" onclick="buttonpush(this.id)"">
                 Bonnies Website
             </h2>
         </header>
@@ -20,8 +20,8 @@
             <a href="giftest.html">Fourth Page</a>
             <a href="#">Fifth Page</a>
         </nav>
-        <button id="switch-button" onclick="buttonpush()">Turn on the switch</button>
-        <img id="switch" src="img/Switch.jpg">
+        <button id="switch-button" onclick="buttonpush(this.id)">Turn on the switch</button>
+        <img id="switch" src="img/Switch.jpg" onclick="buttonpush(this.id)">
         <script src="js/switch.js"></script>
     </body>
 </html>
