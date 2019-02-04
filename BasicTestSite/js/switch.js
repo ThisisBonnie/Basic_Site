@@ -1,0 +1,1 @@
+onclick="document.getElementById('switch').src='img/Switch-off.png'"
